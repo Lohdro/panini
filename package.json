@@ -1,12 +1,12 @@
 {
-  "name": "panini",
+  "name": "vbalt-panini",
   "version": "1.6.3",
   "description": "A super tiny flat file compiler.",
   "main": "index.js",
   "scripts": {
     "test": "mocha --compilers js:babel-register --reporter nyan"
   },
-  "author": "ZURB <foundation@zurb.com> (http://zurb.com)",
+  "author": "Valtech Baltimore Frontend <vbalt.frontend@valtech.com>",
   "license": "MIT",
   "bin": {
     "panini": "./bin/panini.js"
@@ -39,9 +39,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/zurb/panini"
-  },
-  "bugs": {
-    "url": "https://github.com/zurb/panini/issues"
+    "url": "https://github.com/Lohdro/panini"
   }
 }
